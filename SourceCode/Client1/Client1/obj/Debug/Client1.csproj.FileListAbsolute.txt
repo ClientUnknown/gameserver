@@ -1,0 +1,10 @@
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Debug\Client1.csprojResolveAssemblyReference.cache
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Debug\Client.exe.config
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Debug\Client.exe
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Debug\Client.pdb
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Debug\MySql.Data.dll
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Debug\Client.exe
+C:\Users\vp2w\Documents\visual studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Debug\Client.pdb
+C:\Users\Muhammad\Downloads\SourceCode\Client1\Client1\bin\Debug\Client.exe.config
+C:\Users\Muhammad\Downloads\SourceCode\Client1\Client1\obj\Debug\Client.exe
+C:\Users\Muhammad\Downloads\SourceCode\Client1\Client1\obj\Debug\Client.pdb

@@ -1,0 +1,7 @@
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Release\Client.exe.config
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Release\Client.exe
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Release\Client.pdb
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\bin\Release\MySql.Data.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Release\Client1.csprojResolveAssemblyReference.cache
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Release\Client.exe
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\Client1\Client1\obj\Release\Client.pdb

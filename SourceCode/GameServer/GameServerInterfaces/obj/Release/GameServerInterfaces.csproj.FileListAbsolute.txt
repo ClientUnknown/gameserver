@@ -1,0 +1,4 @@
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerInterfaces\bin\Release\GameServerInterfaces.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerInterfaces\bin\Release\GameServerInterfaces.pdb
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerInterfaces\obj\Release\GameServerInterfaces.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerInterfaces\obj\Release\GameServerInterfaces.pdb

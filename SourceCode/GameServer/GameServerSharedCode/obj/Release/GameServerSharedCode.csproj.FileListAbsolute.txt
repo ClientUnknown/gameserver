@@ -1,0 +1,7 @@
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\bin\Release\GameServerSharedCode.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\bin\Release\GameServerSharedCode.pdb
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\bin\Release\Newtonsoft.Json.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\bin\Release\Newtonsoft.Json.xml
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\obj\Release\GameServerSharedCode.csprojResolveAssemblyReference.cache
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\obj\Release\GameServerSharedCode.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerSharedCode\obj\Release\GameServerSharedCode.pdb

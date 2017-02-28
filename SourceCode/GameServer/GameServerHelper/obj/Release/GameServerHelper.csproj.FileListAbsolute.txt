@@ -1,0 +1,4 @@
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerHelper\bin\Release\GameServerHelper.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerHelper\bin\Release\GameServerHelper.pdb
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerHelper\obj\Release\GameServerHelper.dll
+C:\Users\vp2w\Documents\Visual Studio 2015\Projects\SourceCodeTFSGameServer\GameServer\GameServerHelper\obj\Release\GameServerHelper.pdb
